@@ -1,6 +1,6 @@
 # Python FX Converter
 A simple Python script developed as part of my Python learning journey.
-This project calculates foreign exchange amounts using user-provided exchange rates through a command-line interface.
+This project simulates USD/TWD foreign exchange transactions using user-provided exchange rates through a command-line interface.
 
 ## Features
 - Calculate USD exchange amounts using exchange rates.
