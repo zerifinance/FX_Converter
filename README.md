@@ -1,5 +1,5 @@
 # Python FX Converter
-A Python-based foreign exchange converter with two programs for different exchage-rate use cases.
+A Python-based foreign exchange converter with two programs for different exchange-rate use cases.
 
 
 ## Features
@@ -22,21 +22,21 @@ The program supports:
 Converts USD into different currencies using exchange-rate data retrieved from an API.
 
 The program demonstrates:
-- Sending an HTTP GET request with "requests".
+- Sending an HTTP GET request with requests library.
 - Receiving a response from an API.
-- Converting the response into Python data with .json().
+- Parsing the API response into Python data with .json().
 - Extracting specific exchange-rate information.
 - Calculating currency conversions. 
 
 
 ## Technologies
 - Python 3
-- API: https://api.exchangerate.fun/latest
+- ExchangeRate.fun API
 - Git & GitHub
 
 
 ## Learning Focus
-This projects was developed as part of my Python learning journey.
+This project was developed as part of my Python learning journey.
 
 It demonstrates the progression from basic financial calculations to working with external APIs and structured data.
 
@@ -44,7 +44,7 @@ Key concepts include:
 - Variables and data types
 - Conditional statements
 - Loops
-- Funtions
+- Functions
 - Input validation
 - Python modules and packages
 - HTTP requests
